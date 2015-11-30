@@ -1,0 +1,7 @@
+D:\Thực tập nhóm\ThueVienDG\BangDocGia\bin\Debug\BangDocGia.dll
+D:\Thực tập nhóm\ThueVienDG\BangDocGia\bin\Debug\BangDocGia.pdb
+D:\Thực tập nhóm\ThueVienDG\BangDocGia\bin\Debug\KetNoi.dll
+D:\Thực tập nhóm\ThueVienDG\BangDocGia\bin\Debug\KetNoi.pdb
+D:\Thực tập nhóm\ThueVienDG\BangDocGia\obj\Debug\BangDocGia.csprojResolveAssemblyReference.cache
+D:\Thực tập nhóm\ThueVienDG\BangDocGia\obj\Debug\BangDocGia.dll
+D:\Thực tập nhóm\ThueVienDG\BangDocGia\obj\Debug\BangDocGia.pdb

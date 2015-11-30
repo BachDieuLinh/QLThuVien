@@ -1,0 +1,5 @@
+D:\Thực tập nhóm\ThueVienDG\KetNoi\bin\Debug\KetNoi.dll
+D:\Thực tập nhóm\ThueVienDG\KetNoi\bin\Debug\KetNoi.pdb
+D:\Thực tập nhóm\ThueVienDG\KetNoi\obj\Debug\KetNoi.csprojResolveAssemblyReference.cache
+D:\Thực tập nhóm\ThueVienDG\KetNoi\obj\Debug\KetNoi.dll
+D:\Thực tập nhóm\ThueVienDG\KetNoi\obj\Debug\KetNoi.pdb

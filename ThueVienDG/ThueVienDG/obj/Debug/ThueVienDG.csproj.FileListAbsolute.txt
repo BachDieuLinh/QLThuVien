@@ -1,0 +1,12 @@
+D:\Thực tập nhóm\ThueVienDG\ThueVienDG\obj\Debug\ThueVienDG.csprojResolveAssemblyReference.cache
+D:\Thực tập nhóm\ThueVienDG\ThueVienDG\obj\Debug\ThueVienDG.DocGia.resources
+D:\Thực tập nhóm\ThueVienDG\ThueVienDG\obj\Debug\ThueVienDG.Properties.Resources.resources
+D:\Thực tập nhóm\ThueVienDG\ThueVienDG\obj\Debug\ThueVienDG.csproj.GenerateResource.Cache
+D:\Thực tập nhóm\ThueVienDG\ThueVienDG\bin\Debug\ThueVienDG.exe
+D:\Thực tập nhóm\ThueVienDG\ThueVienDG\bin\Debug\ThueVienDG.pdb
+D:\Thực tập nhóm\ThueVienDG\ThueVienDG\bin\Debug\BangDocGia.dll
+D:\Thực tập nhóm\ThueVienDG\ThueVienDG\bin\Debug\KetNoi.dll
+D:\Thực tập nhóm\ThueVienDG\ThueVienDG\bin\Debug\BangDocGia.pdb
+D:\Thực tập nhóm\ThueVienDG\ThueVienDG\bin\Debug\KetNoi.pdb
+D:\Thực tập nhóm\ThueVienDG\ThueVienDG\obj\Debug\ThueVienDG.exe
+D:\Thực tập nhóm\ThueVienDG\ThueVienDG\obj\Debug\ThueVienDG.pdb
