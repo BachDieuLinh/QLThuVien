@@ -23,3 +23,6 @@ D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QL
 D:\Study Kỳ 1 năm 4\Github\QLThuVien_TTN\QLThuVien_TTN\bin\Debug\QLThuVien_TTN.exe.config
 D:\Study Kỳ 1 năm 4\Github\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.exe
 D:\Study Kỳ 1 năm 4\Github\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.pdb
+E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\bin\Debug\QLThuVien_TTN.exe.config
+E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.exe
+E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.pdb
