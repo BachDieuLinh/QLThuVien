@@ -1,0 +1,25 @@
+c:\users\administrator\documents\visual studio 2012\Projects\QLThuVien_TTN\QLThuVien_TTN\bin\Debug\QLThuVien_TTN.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\QLThuVien_TTN\QLThuVien_TTN\bin\Debug\QLThuVien_TTN.exe
+c:\users\administrator\documents\visual studio 2012\Projects\QLThuVien_TTN\QLThuVien_TTN\bin\Debug\QLThuVien_TTN.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.exe
+c:\users\administrator\documents\visual studio 2012\Projects\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.FormMenu.resources
+c:\users\administrator\documents\visual studio 2012\Projects\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.frmSach.resources
+D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\bin\Debug\QLThuVien_TTN.exe.config
+D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.exe
+D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.pdb
+D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\bin\Debug\QLThuVien_TTN.exe
+D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\bin\Debug\QLThuVien_TTN.pdb
+D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.csprojResolveAssemblyReference.cache
+D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.Form1.resources
+D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.FormMenu.resources
+D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.frmSach.resources
+D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.Properties.Resources.resources
+D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.csproj.GenerateResource.Cache
+D:\Study Kỳ 1 năm 4\Github\QLThuVien_TTN\QLThuVien_TTN\bin\Debug\QLThuVien_TTN.exe.config
+D:\Study Kỳ 1 năm 4\Github\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.exe
+D:\Study Kỳ 1 năm 4\Github\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.pdb
