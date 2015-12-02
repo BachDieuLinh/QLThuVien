@@ -10,3 +10,5 @@ D:\Thực tập nhóm\ThueVienDG\ThueVienDG\bin\Debug\BangDocGia.pdb
 D:\Thực tập nhóm\ThueVienDG\ThueVienDG\bin\Debug\KetNoi.pdb
 D:\Thực tập nhóm\ThueVienDG\ThueVienDG\obj\Debug\ThueVienDG.exe
 D:\Thực tập nhóm\ThueVienDG\ThueVienDG\obj\Debug\ThueVienDG.pdb
+E:\Nam 4 ki 1\TT nhóm\QLThuVien\ThueVienDG\ThueVienDG\obj\Debug\ThueVienDG.exe
+E:\Nam 4 ki 1\TT nhóm\QLThuVien\ThueVienDG\ThueVienDG\obj\Debug\ThueVienDG.pdb

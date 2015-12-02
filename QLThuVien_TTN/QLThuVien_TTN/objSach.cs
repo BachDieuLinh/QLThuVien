@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 
 namespace QLThuVien_TTN
 {
-    class Sach
+    class objSach
     {
         
         public DataTable HienThiSach()

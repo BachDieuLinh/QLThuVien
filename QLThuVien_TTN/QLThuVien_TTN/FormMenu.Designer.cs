@@ -34,8 +34,8 @@
             this.độcGiảToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mượnTrảSáchToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mượnTrảSáchToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -75,6 +75,7 @@
             this.độcGiảToolStripMenuItem.Name = "độcGiảToolStripMenuItem";
             this.độcGiảToolStripMenuItem.Size = new System.Drawing.Size(79, 25);
             this.độcGiảToolStripMenuItem.Text = "Độc giả";
+            this.độcGiảToolStripMenuItem.Click += new System.EventHandler(this.độcGiảToolStripMenuItem_Click);
             // 
             // mượnTrảSáchToolStripMenuItem
             // 
@@ -91,16 +92,6 @@
             this.mượnTrảSáchToolStripMenuItem1.Size = new System.Drawing.Size(126, 25);
             this.mượnTrảSáchToolStripMenuItem1.Text = "Mượn trả sách";
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::QLThuVien_TTN.Properties.Resources.background;
-            this.pictureBox1.Location = new System.Drawing.Point(0, 82);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(945, 316);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 1;
-            this.pictureBox1.TabStop = false;
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -111,6 +102,16 @@
             this.label1.Size = new System.Drawing.Size(306, 26);
             this.label1.TabIndex = 2;
             this.label1.Text = "Phần mềm quản lý thư viện";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::QLThuVien_TTN.Properties.Resources.background;
+            this.pictureBox1.Location = new System.Drawing.Point(0, 82);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(945, 316);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 1;
+            this.pictureBox1.TabStop = false;
             // 
             // FormMenu
             // 
