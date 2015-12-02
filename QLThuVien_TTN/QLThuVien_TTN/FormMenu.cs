@@ -28,5 +28,11 @@ namespace QLThuVien_TTN
             FormDocGia frmDG = new FormDocGia();
             frmDG.Show();
         }
+
+        private void mượnTrảSáchToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            FormMuonSach frmMuonSach = new FormMuonSach();
+            frmMuonSach.Show();
+        }
     }
 }

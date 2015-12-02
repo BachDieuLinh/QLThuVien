@@ -91,6 +91,7 @@
             this.mượnTrảSáchToolStripMenuItem1.Name = "mượnTrảSáchToolStripMenuItem1";
             this.mượnTrảSáchToolStripMenuItem1.Size = new System.Drawing.Size(126, 25);
             this.mượnTrảSáchToolStripMenuItem1.Text = "Mượn trả sách";
+            this.mượnTrảSáchToolStripMenuItem1.Click += new System.EventHandler(this.mượnTrảSáchToolStripMenuItem1_Click);
             // 
             // label1
             // 

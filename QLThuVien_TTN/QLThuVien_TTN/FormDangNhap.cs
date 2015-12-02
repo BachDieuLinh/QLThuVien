@@ -10,24 +10,28 @@ using System.Windows.Forms;
 
 namespace QLThuVien_TTN
 {
-    public partial class Form1 : Form
+    public partial class FormDangNhap : Form
     {
-        public Form1()
+        objDangNhap DN = new objDangNhap();
+        public FormDangNhap()
         {
             InitializeComponent();
-            frmSach frm = new frmSach();
-            frm.Show();
-          
         }
-       
-          
+
         private void btnDangNhap_Click(object sender, EventArgs e)
         {
+
             FormMenu frmMenu = new FormMenu();
-           // Form frm = new Form();
-            if (txtTenDN.Text == "admin" && txtMK.Text == "123456")
-                frmMenu.Show();
-                
+            Form frm = new Form();
+            DataTable dt = new DataTable();
+            dt = DN.DangNhap(txtTenDN.Text, txtMK.Text);
+            if (dt.Rows.Count != 0)
+            {
+                this.Hide();
+                frmMenu.ShowDialog();
+                this.Show();
+            }
+            else MessageBox.Show("Đăng nhập không thành công!");
         }
 
         private void btnThoat_Click(object sender, EventArgs e)

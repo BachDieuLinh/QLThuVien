@@ -29,9 +29,10 @@ E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien
 E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\bin\Debug\QLThuVien_TTN.exe
 E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\bin\Debug\QLThuVien_TTN.pdb
 E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.csprojResolveAssemblyReference.cache
-E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.Form1.resources
 E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.FormDocGia.resources
 E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.FormMenu.resources
 E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.frmSach.resources
 E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.Properties.Resources.resources
 E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.csproj.GenerateResource.Cache
+E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.FormDangNhap.resources
+E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.FormMuonSach.resources
