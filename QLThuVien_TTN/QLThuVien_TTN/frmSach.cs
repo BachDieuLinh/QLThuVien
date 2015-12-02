@@ -12,7 +12,7 @@ namespace QLThuVien_TTN
 {
     public partial class frmSach : Form
     {
-        Sach book = new Sach();
+        objSach book = new objSach();
         int check = 0;
         public frmSach()
         {
