@@ -15,7 +15,6 @@ D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QL
 D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\bin\Debug\QLThuVien_TTN.exe
 D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\bin\Debug\QLThuVien_TTN.pdb
 D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.csprojResolveAssemblyReference.cache
-D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.Form1.resources
 D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.FormMenu.resources
 D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.frmSach.resources
 D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.Properties.Resources.resources
@@ -36,3 +35,6 @@ E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien
 E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.csproj.GenerateResource.Cache
 E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.FormDangNhap.resources
 E:\Nam 4 ki 1\TT nhóm\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.FormMuonSach.resources
+D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.FormDangNhap.resources
+D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.FormDocGia.resources
+D:\Study Kỳ 1 năm 4\Github\QLThuVien\QLThuVien_TTN\QLThuVien_TTN\obj\Debug\QLThuVien_TTN.FormMuonSach.resources
