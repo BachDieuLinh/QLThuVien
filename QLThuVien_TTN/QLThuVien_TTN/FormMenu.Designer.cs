@@ -29,8 +29,6 @@
         private void InitializeComponent()
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.menuToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.nhânViênToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.độcGiảToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mượnTrảSáchToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mượnTrảSáchToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
@@ -44,8 +42,6 @@
             // 
             this.menuStrip1.Font = new System.Drawing.Font("UVN Nhat Ky", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.menuToolStripMenuItem,
-            this.nhânViênToolStripMenuItem,
             this.độcGiảToolStripMenuItem,
             this.mượnTrảSáchToolStripMenuItem,
             this.mượnTrảSáchToolStripMenuItem1});
@@ -54,20 +50,6 @@
             this.menuStrip1.Size = new System.Drawing.Size(945, 29);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
-            // 
-            // menuToolStripMenuItem
-            // 
-            this.menuToolStripMenuItem.Font = new System.Drawing.Font("UVN Nhat Ky", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.menuToolStripMenuItem.Name = "menuToolStripMenuItem";
-            this.menuToolStripMenuItem.Size = new System.Drawing.Size(63, 25);
-            this.menuToolStripMenuItem.Text = "Menu";
-            // 
-            // nhânViênToolStripMenuItem
-            // 
-            this.nhânViênToolStripMenuItem.Font = new System.Drawing.Font("UVN Nhat Ky", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.nhânViênToolStripMenuItem.Name = "nhânViênToolStripMenuItem";
-            this.nhânViênToolStripMenuItem.Size = new System.Drawing.Size(96, 25);
-            this.nhânViênToolStripMenuItem.Text = "Nhân viên";
             // 
             // độcGiảToolStripMenuItem
             // 
@@ -136,8 +118,6 @@
         #endregion
 
         private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem menuToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem nhânViênToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem độcGiảToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem mượnTrảSáchToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem mượnTrảSáchToolStripMenuItem1;
