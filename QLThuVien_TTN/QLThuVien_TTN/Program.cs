@@ -16,7 +16,7 @@ namespace QLThuVien_TTN
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormMuonSach());
+            Application.Run(new FormDocGia());
         }
     }
 }

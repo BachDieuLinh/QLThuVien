@@ -12,7 +12,7 @@ namespace QLThuVien_TTN
         SqlConnection cn = new SqlConnection();
         static public String KetNoi()
         {
-            return (@"Data Source=ADMINISTRATOR\LINH;Initial Catalog=QLThuVien;Integrated Security=True");
+            return (@"Data Source=HOME;Initial Catalog=QLThuVien;Integrated Security=True");
         }
     }
 }
